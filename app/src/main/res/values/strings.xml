@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPDFViewer</string>
+    <string name="open_pdf">Open PDF file</string>
+    <string name="allow_permissions_to_continue">Allow permissions to continue </string>
+</resources>
